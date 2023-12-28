@@ -85,17 +85,6 @@ body {
     color: rgb(76, 198, 175);
 }
 
-/* Placeholder for domain-switcher illustration */
-.select-placeholder {
-    margin-top: 20px;
-    padding: 10px;
-    border: none;
-    border-radius: 5px;
-    background-color: #fff;
-    color: #a1a1a1;
-    font-size: 14px;
-    width: 100%;
-}
 
 
 .container-box {
